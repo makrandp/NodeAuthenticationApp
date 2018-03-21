@@ -1,0 +1,1 @@
+Simple authentication app which uses local strategy of passport.js
